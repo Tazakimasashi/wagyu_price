@@ -5,6 +5,9 @@ body {
 a {
   color: #fff;
 }
+.title {
+  font-size: 36px;
+}
 
 a:hover {
   color: #ddd;
